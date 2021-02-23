@@ -2,7 +2,7 @@
 
 Hi my name is Daniel! I am a business engineer passionate about transforming data into information.
 
-Inside of each folder you can find the answer of all the questions of the challenge. Answers are explained in every folder´s README.
+Inside of each folder you can find the answers of all questions. Answers are explained in every folder´s README.
 
 - Questions 1 to 3 are inside the first folder.
 - Question 4 in the second.
