@@ -6,7 +6,7 @@ Inside of each folder you can find the answer of all the questions of the challe
 
 - Questions 1 to 3 are inside the first folder.
 - Question 4 in the second.
-- Quetsions 5 to 8 are in the last one.
+- Questions 5 to 8 are in the last one.
 
 Thanks!
 
